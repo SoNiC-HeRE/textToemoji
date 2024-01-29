@@ -17,7 +17,7 @@
 - Run git clone `clone-url` in your directory and `cd directory`
 - Run `live server extension (install first if not present)`
 
-### Live: https://smart-detector.vercel.app/
+### Live: https://text-toemoji.vercel.app/
 <hr/>
 
 
